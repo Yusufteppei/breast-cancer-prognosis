@@ -1,0 +1,4 @@
+Using age_at_index currently, might change to a more explicit column that calculates age at diagnosis or treatment start
+Avoid including drugs that were administered after recovery in features
+3. I'm setting Female to 1 and Male to 0
+4. Remember pathway scores

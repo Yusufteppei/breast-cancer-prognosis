@@ -1,0 +1,1 @@
+case_id, cases.case_id, cases.consent_type, cases.days_to_consent, cases.days_to_lost_to_followup, cases.disease_type, cases.index_date, cases.lost_to_followup, cases.primary_site, cases.submitter_id, 
